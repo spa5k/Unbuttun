@@ -2,5 +2,5 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align='center'>
-  🔭 I’m currently working on [Olympus](https://github.com/Unbuttun/Olympus)
+  🔭 I’m currently working on https://github.com/Unbuttun/Olympus
   </p>
